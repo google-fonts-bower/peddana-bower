@@ -1,0 +1,17 @@
+{
+    "name": "peddana-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Appaji Ambarisha Darbha"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/peddana-bower.git"
+    },
+    "description": "Peddana font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
